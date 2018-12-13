@@ -1,0 +1,58 @@
+body {
+    background-color: grey;
+    background-repeat: no-repeat;
+}
+button {
+    margin: 10px;
+}
+
+#buttons {
+    margin-bottom: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(235, 224, 224);
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 12pt;
+    color: white;
+    position: relative;
+    width: 250px;
+}
+
+label {
+    color: yellow;
+    background-color: black;
+    text-align: right;
+}
+
+#form {
+    float: right;
+    width: 200px;
+}
+
+/* .item {
+    float: left;
+} */
+
+#gifs {
+    max-width: 70%;
+    margin-top: 20px;
+}
+img {
+    margin-right: 20px;
+    margin-bottom: 40px;
+    width: 250px;
+    height: auto;
+}
+
+.title {
+    height: 60px;
+}
+
+
+/* change color of active button */
